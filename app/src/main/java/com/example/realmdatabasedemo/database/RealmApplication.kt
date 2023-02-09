@@ -1,4 +1,4 @@
-package com.example.realmdatabasedemo
+package com.example.realmdatabasedemo.database
 
 import android.app.Application
 import io.realm.Realm
